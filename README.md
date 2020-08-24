@@ -5,7 +5,7 @@ This is the .prg converted to 16k .bin and .crt for use in an emulator.
 
 Amongst other things, 6510+ has directory and load as F keys. F keys are also redefinable.
 
-F1 $0:* (Direcrory)
+F1 $0:* (Directory)
 
 F2 ASSEMBLE
 
